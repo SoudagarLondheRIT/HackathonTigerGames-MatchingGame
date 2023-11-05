@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HackathonTigerGames-MatchingGame/static/css/main.f567a9bb.css",
+    "main.js": "/HackathonTigerGames-MatchingGame/static/js/main.a179a8d4.js",
+    "index.html": "/HackathonTigerGames-MatchingGame/index.html",
+    "main.f567a9bb.css.map": "/HackathonTigerGames-MatchingGame/static/css/main.f567a9bb.css.map",
+    "main.a179a8d4.js.map": "/HackathonTigerGames-MatchingGame/static/js/main.a179a8d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f567a9bb.css",
+    "static/js/main.a179a8d4.js"
+  ]
+}
